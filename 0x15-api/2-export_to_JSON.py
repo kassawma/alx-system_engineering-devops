@@ -1,4 +1,7 @@
-#!/usr/bin/python3
+#!i/usr/bin/python3
+"""script that fetches info about a given employee using an api
+and exports it in json format
+"""
 import json
 import requests
 import sys
